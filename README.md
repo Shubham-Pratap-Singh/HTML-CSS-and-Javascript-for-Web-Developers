@@ -11,7 +11,7 @@ This repository contains my solutions to the assignments of the Coursera course
 ### Module 2
 * [Assignment description](./Descriptions/assignment2/Assignment-2.md)
 * Deadline: JUN 29, 12:29 PM IST
-* [Solution](https://shubhamkatheria11.github.io/coursera-test/mod2_solution/)
+* [Solution](https://Shubham-Pratap-Singh.github.io/coursera-test/mod2_solution/)
 
 ### Module 3
 * [Assignment description](./Descriptions/assignment3/Assignment-3.md)
